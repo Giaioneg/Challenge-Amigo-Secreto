@@ -6,8 +6,6 @@
 
 Una aplicación web interactiva para organizar sorteos de "Amigo Secreto" de forma sencilla y divertida, creada con HTML, CSS y JavaScript vanilla.
 
-![Vista previa de la aplicación](assets/preview.png)
-
 ## 📋 Tabla de Contenidos
 
 - [🌟 Descripción](#-descripción)
@@ -389,4 +387,4 @@ Si tienes preguntas, sugerencias o quieres contribuir de otra manera:
 - **Email:** <118447447+Giaioneg@users.noreply.github.com>
 - **GitHub:** <https://github.com/Giaioneg>
 
-Desarrollado con el objetivo de aprendizaje en el area de programación en el curso impartido por Oracle y Alura.
+Desarrollado con el objetivo de aprendizaje en el area de programación en el curso impartido por Oracle y Alura. El HTML y CSS fueron proporcionados por dichas organizaciones con el fin de que aprendamos JS.
